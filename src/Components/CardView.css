@@ -1,0 +1,32 @@
+.container {
+  background-color: rgb(147 147 157);
+  border: 2px solid black;
+  width: 19%;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 25px;
+  padding: 10px 0;
+  color: black;
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.image {
+  width: 100%;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
