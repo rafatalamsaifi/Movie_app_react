@@ -3,7 +3,7 @@
 
 Run `npm i` to install the dependencies.
 
-Run `npm start` to start the api server.
+Run `npm start` to start the react app.
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
