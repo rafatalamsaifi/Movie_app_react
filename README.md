@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+Run `npm i` to install the dependencies.
+
+Run `npm start` to start the api server.
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
